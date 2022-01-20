@@ -5,7 +5,7 @@
 <h4 align="center">
   O intuito deste repositório é compartilhar a construção uma página voltada ao controle financeiro, com um layout simples e funcional. todo o desenvolvimento ainda se encontra somente com o desenvolvimento do front-end.
   </br>
-  <a href='https://geessyca.github.io/fincanceControl_front-end/' target='_blank'>🔎 View Demo</a>
+  <a href='https://fincance-control-front-endn.vercel.app/' target='_blank'>🔎 View Demo</a>
 </h4>
 
 <h2 align="left">
