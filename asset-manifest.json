@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37898582.css",
+    "main.js": "/static/js/main.451665ff.js",
+    "static/media/finance-control-input.jpg": "/static/media/finance-control-input.d7e29a25c057ab1da3e8.jpg",
+    "static/media/finance-control-home.jpg": "/static/media/finance-control-home.9ab84155147fcdfc92eb.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.37898582.css.map": "/static/css/main.37898582.css.map",
+    "main.451665ff.js.map": "/static/js/main.451665ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37898582.css",
+    "static/js/main.451665ff.js"
+  ]
+}
