@@ -1,0 +1,19 @@
+.home_section {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+}
+.home_section img{
+    height: 320px;
+}
+
+@media screen and (max-width: 600px) {
+    .home_section{
+        top: 60%;
+    }
+    .home_section img {
+        height: 180px;
+    }
+}
